@@ -7,9 +7,8 @@
 ---
 
 ## Abstrak 
-Tuliskan ringkasan singkat tentang isi laporan ini dan tujuan Anda membuat laporan.
 
-Laporan ini membahas pengenalan framework Laravel, mulai dari konsep dasar, komponen utama, struktur folder dan file, hingga pola arsitektur MVC yang digunakan. Tujuan laporan ini adalah untuk memahami dasar-dasar Laravel sebagai fondasi dalam membangun aplikasi web modern yang terstruktur, efisien, dan mudah dikembangkan. Dengan memahami materi ini, mahasiswa diharapkan mampu memulai pengembangan aplikasi menggunakan Laravel dengan lebih percaya diri.
+Praktikum ini membahas penggunaan Laravel sebagai framework PHP untuk membuat aplikasi web. Membahas struktur Laravel, komponen utama seperti routing, controller, blade, dan eloquent ORM, serta cara melakukan testing dengan PHPUnit. Dari hasil praktikum, Laravel dapat mempermudah pembuatan aplikasi karena kodenya lebih rapi, teratur, dan mudah dikembangkan.
 
 
 ---
