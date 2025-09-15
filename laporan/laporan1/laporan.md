@@ -7,7 +7,6 @@
 ---
 
 ## Abstrak 
-
 Praktikum ini membahas penggunaan Laravel sebagai framework PHP untuk membuat aplikasi web. Membahas struktur Laravel, komponen utama seperti routing, controller, blade, dan eloquent ORM, serta cara melakukan testing dengan PHPUnit. Dari hasil praktikum, Laravel dapat mempermudah pembuatan aplikasi karena kodenya lebih rapi, teratur, dan mudah dikembangkan.
 
 
@@ -133,10 +132,10 @@ Hal yang mungkin menjadi tantangan bagi pemula biasa terletak pada banyaknya fit
 
 ## 7. Referensi
 
-1. Perkenalan laravel https://www.dicoding.com/blog/kenalan-dengan-laravel-framework-php-yang-keren-dan-serbaguna/
-2. Alur MVC https://www.dicoding.com/blog/apa-itu-mvc-pahami-konsepnya/
-3. Eloquent (ORM) https://buildwithangga.com/tips/mengenal-laravel-eloquent-pengertian-fungsi-dan-penggunaannya?
-4. Routing https://laravel.com/docs/12.x/routing?
-5. Testing (PHPUnit) https://laravel.com/docs/12.x/testing?
-6.  folder  dan files https://www.barajacoding.or.id/mengenal-struktur-folder-dan-file-pada-laravel/
+- Perkenalan laravel https://www.dicoding.com/blog/kenalan-dengan-laravel-framework-php-yang-keren-dan-serbaguna/
+- Alur MVC https://www.dicoding.com/blog/apa-itu-mvc-pahami-konsepnya/
+- Eloquent (ORM) https://buildwithangga.com/tips/mengenal-laravel-eloquent-pengertian-fungsi-dan-penggunaannya?
+- Routing https://laravel.com/docs/12.x/routing?
+- Testing (PHPUnit) https://laravel.com/docs/12.x/testing?
+-  folder  dan files https://www.barajacoding.or.id/mengenal-struktur-folder-dan-file-pada-laravel/
 ---
