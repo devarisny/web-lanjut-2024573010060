@@ -31,7 +31,6 @@ Laravel adalah salah satu framework PHP yang cocok digunakan untuk membangun ber
 ---
 
 ## 2. Komponen Utama Laravel (ringkas)
-Tuliskan penjelasan singkat (1–3 kalimat) untuk tiap komponen berikut:
 
 - Blade (templating)<br>
 Blade adalah mesin templating Laravel yang ringan, tapi tetap kuat. Blade memungkinkan pengembang untuk menggunakan sintaksis sederhana untuk membuat tampilan dinamis dan dapat digunakan kembali. Jadi kita tidak perlu menulis kode berulang kali untuk membuat sebuah tampilan yang berulang seperti header, navbar, dan footer.
@@ -106,8 +105,6 @@ Berikut adalah file-file yang tersedia secara default:
 
 ## 4. Diagram MVC dan Cara kerjanya
 
-> Letakkan gambar di dalam folder `laporan1/gambar/`. Kemudian masukkan gambar tersebut ke laporan. 
-
 Model View Controller (MVC) adalah sebuah pola arsitektur dalam pengembangan  aplikasi dengan membagi kode menjadi tiga, yaitu Model, view, controller. Hal ini bertujuan agar aplikasi lebih tersetruktur dan mudah di kelola. 
 - Model
 Bertugas menyiapkan, mengatur, memanipulasi, dan mengorganisasi data yang ada di database.
@@ -135,7 +132,6 @@ Hal yang mungkin menjadi tantangan bagi pemula biasa terletak pada banyaknya fit
 ---
 
 ## 7. Referensi
-Cantumkan sumber yang Anda baca (buku, artikel, dokumentasi) — minimal 2 sumber. Gunakan format sederhana (judul — URL).
 
 1. Perkenalan laravel https://www.dicoding.com/blog/kenalan-dengan-laravel-framework-php-yang-keren-dan-serbaguna/
 2. Alur MVC https://www.dicoding.com/blog/apa-itu-mvc-pahami-konsepnya/
