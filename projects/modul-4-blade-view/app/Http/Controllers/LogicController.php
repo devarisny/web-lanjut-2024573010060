@@ -1,12 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use Illuminate\Http\Request;
 
 class LogicController extends Controller
 {
-    //
     public function show()
     {
         $isLoggedIn = true;
@@ -21,8 +19,6 @@ class LogicController extends Controller
             'email' => 'thariq@ilmudata.id'
         ];
         $status = 'active';
-    
         return view('logic', compact('isLoggedIn', 'users', 'products', 'profile', 'status'));
-
     }
 }

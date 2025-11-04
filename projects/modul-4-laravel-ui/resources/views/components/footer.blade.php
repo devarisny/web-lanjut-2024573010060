@@ -1,5 +1,6 @@
-    <!-- It is never too late to be what you might have been. - George Eliot -->
-     @props(['theme' => 'light', 'icon' => null, 'title' => '', 'description' => '', 'badge' => null])
+@php
+    $theme = $theme ?? 'light';
+@endphp
 <footer class="mt-5 py-4 border-top {{ $theme === 'dark' ? 'border-secondary' : '' }}">
     <div class="container">
         <div class="row">

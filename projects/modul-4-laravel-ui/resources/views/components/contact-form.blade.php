@@ -1,7 +1,6 @@
- <!-- Very little is needed to make a happy life. - Marcus Aurelius -->
-@props(['theme' => 'light'])
-<div>
-    <div class="card {{ $theme === 'dark' ? 'bg-dark border-light' : '' }} h-100">
+@props(['theme' => 'light', 'departments' => []])
+
+<div class="card {{ $theme === 'dark' ? 'bg-dark border-light' : '' }} h-100">
     <div class="card-header">
         <h5>Form Kontak</h5>
     </div>
@@ -22,7 +21,7 @@
                 <select class="form-select {{ $theme === 'dark' ? 'bg-dark text-light border-light' : '' }}">
                     <option selected>Pilih department...</option>
                     @foreach($departments as $dept)
-                        <option value="{{ $dept }}">{{ $dept }}</option>
+                    <option value="{{ $dept }}">{{ $dept }}</option>
                     @endforeach
                 </select>
             </div>
@@ -35,6 +34,4 @@
             <button type="submit" class="btn btn-primary">Kirim Pesan</button>
         </form>
     </div>
-</div>
-
 </div>

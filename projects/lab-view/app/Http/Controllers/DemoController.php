@@ -12,7 +12,6 @@ class DemoController extends Controller
         $name = 'Laravel Learner';
         return view('hello', ['name' => $name]);
     }
-
     // Parameterized route
     public function greet($name)
     {
